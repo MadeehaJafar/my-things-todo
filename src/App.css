@@ -1,0 +1,134 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: #E5E4E2;
+    border-radius: 4px;
+    margin: 35px;
+    height: 520px;
+}
+
+.main-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 521px;
+    height: 365px;
+    margin-top: 45px;
+    background-color: white;
+}
+
+.main-input {
+    width: 470px;
+    padding: 4px;
+    margin-right: 15px;
+}
+
+.search-input {
+    width: 470px;
+    padding: 4px;
+    margin-top: 3px;
+}
+
+
+.div-checkbox {
+    padding: 7px;
+    border-bottom: 1px solid grey;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.decoration {
+    text-decoration: line-through;
+    padding: 7px;
+    border-bottom: 1px solid grey;
+    font-size: 15px;
+    font-family: sans-serif;
+
+
+}
+
+.last-checkbox {
+    padding: 7px;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    width: 521px;
+    height: 36px;
+    background-color: #ECFFDC;
+    /* margin-top: 188px; */
+    /* borderTopWidth: '20px' */
+
+}
+
+.main-checkbox {
+    height: 100%;
+}
+
+.main-footer {
+    display: flex;
+}
+
+.add-icon {
+    padding-left: 14px;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+
+.search-icon {
+    padding: 10px;
+    border-right: 1px solid rgb(217, 216, 216);
+    margin-right: 10px;
+    cursor: pointer;
+
+}
+
+.para {
+    color: grey;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-top: 9px;
+    margin-left: 2px;
+
+}
+
+.btn-div {
+    display: flex;
+    margin-top: 7px;
+    margin-right: 25px;
+}
+
+.btn-1 {
+    padding-right: 21px;
+    padding-top: 5px;
+    font-size: 13px;
+    font-family: sans-serif;
+    color: grey;
+    cursor: pointer;
+}
+
+span:hover {
+    border: 1px solid grey;
+
+}
+
+.btn-2 {
+    padding-right: 21px;
+    padding-top: 5px;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: grey;
+    cursor: pointer;
+}
+
+.btn-3 {
+    font-family: sans-serif;
+    padding-top: 5px;
+    font-size: 12px;
+    color: grey;
+    cursor: pointer;
+}
