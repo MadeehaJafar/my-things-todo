@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-things-todo/static/css/main.eee20409.css",
+    "main.js": "/my-things-todo/static/js/main.05d55666.js",
+    "index.html": "/my-things-todo/index.html",
+    "main.eee20409.css.map": "/my-things-todo/static/css/main.eee20409.css.map",
+    "main.05d55666.js.map": "/my-things-todo/static/js/main.05d55666.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee20409.css",
+    "static/js/main.05d55666.js"
+  ]
+}
